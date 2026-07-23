@@ -1,6 +1,6 @@
 public class helloworl {
     public static void main(String[] args) {
         System.out.println("Hello, World!");
-        System.out.println("Welcome to Java session");
+        System.out.println("Welcome to Java session with Mansijava");
     }
 }
